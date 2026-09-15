@@ -1,13 +1,13 @@
 # Požehnání nových služebníků
 
-> 3. listopadu 2024 sbor v Kladně požehnal ke službě starších sboru Filipa Zadorožného, Iona Kučera a Sergeje Zadorožného.
+> 3. listopadu 2024 sbor v Kladně požehnal ke službě starších sboru Iona Kučera a další dva bratry.
 
 _Tento text byl zčásti nebo zcela připraven s pomocí umělé inteligence a zatím nebyl zkontrolován._
 
 3. listopadu 2024
 
 
-Dne 3. listopadu 2024 se v baptistickém sboru v Kladně konala zvláštní bohoslužba, při které byli požehnáni noví služebníci. Sbor s radostí potvrdil ve službě starších sboru Filipa Zadorožného, Iona Kučera a Sergeje Zadorožného, které si pro toto důležité povolání zvolil.
+Dne 3. listopadu 2024 se v baptistickém sboru v Kladně konala zvláštní bohoslužba, při které byli požehnáni noví služebníci. Sbor s radostí potvrdil ve službě starších sboru Iona Kučera a další dva bratry, které si pro toto důležité povolání zvolil.
 
 Čestnými hosty, kteří se modlili se vkládáním rukou, byli Jan Jackanič, generální tajemník Bratrské jednoty baptistů, Michail Gricyk, kazatel sboru „21. století“ v Praze, a Štěpán Gavrilov, kazatel sboru „Vinný kmen“ v Praze. Každý z požehnaných bratří obdržel podepsané osvědčení o požehnání a Bibli v Českém studijním překladu.
 

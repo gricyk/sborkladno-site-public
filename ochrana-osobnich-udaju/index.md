@@ -2,8 +2,6 @@
 
 > Ochrana osobních údajů ve Sboru BJB v Kladně: web bez cookies a měřicích kódů, serverové záznamy 90 dní, fotografie jen se souhlasem, práva podle GDPR.
 
-_Tento text byl zčásti nebo zcela připraven s pomocí umělé inteligence a zatím nebyl zkontrolován._
-
 
 ## Kdo za údaje odpovídá
 

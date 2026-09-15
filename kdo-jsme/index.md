@@ -24,7 +24,7 @@ Naše církev je součástí Bratrské jednoty baptistů v ČR (BJB) a je [regis
 - **2009 (jaro) — Pravidelná kázání ve skupině.** Odpovědnost za skupinu převzal diákon Igor Gricyk. Skupina čítala do 10 osob a byla pobočkou Pražského baptistického sboru.
 - **2016 (léto) — Registrace církve.** Začala pravidelná shromáždění, skupina narostla na 20 lidí a stala se samostatným baptistickým sborem ve městě Kladno.
 - **2016 (léto) — Volba služebníků.** Do kazatelské služby byl zvolen a ustanoven Igor Gricyk, do služby starších / diákonů Petr Patrašku a Miroslav Mizun.
-- **2024 (podzim) — Noví starší sboru.** Sbor s radostí potvrdil ve službě starších sboru Filipa Zadorožného, Iona Kučera a Sergeje Zadorožného, které si pro toto důležité povolání zvolil.
+- **2024 (podzim) — Noví starší sboru.** Sbor s radostí potvrdil ve službě starších sboru Iona Kučera a další dva bratry, které si pro toto důležité povolání zvolil.
 - **2025 — Kazatelé sboru.** Sbor potvrdil Igora Gricyka v kazatelské službě na další období a zvolil druhého kazatele Iona Kučera.
 
 ## Kazatelé
