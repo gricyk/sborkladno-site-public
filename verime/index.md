@@ -2,6 +2,8 @@
 
 > Co vyznáváme a na čem stavíme život sboru.
 
+_Tento text byl zčásti nebo zcela připraven s pomocí umělé inteligence a zatím nebyl zkontrolován._
+
 ## Apoštolské vyznání víry
 
 Věřím v Boha, Otce všemohoucího, Stvořitele nebe i země. I v Ježíše Krista, Syna jeho jediného, Pána našeho; jenž se počal z Ducha svatého, narodil se z Marie Panny, trpěl pod Ponciem Pilátem, ukřižován umřel i pohřben jest; sestoupil do pekel, třetího dne vstal z mrtvých; vstoupil na nebesa, sedí po pravici Boha, Otce všemohoucího; odtud přijde soudit živé i mrtvé. Věřím v Ducha Svatého, svatou církev obecnou, společenství svatých, odpuštění hříchů, vzkříšení těla a život věčný. Amen

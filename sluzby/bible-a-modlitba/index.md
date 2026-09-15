@@ -2,6 +2,8 @@
 
 > Bible a modlitba každý čtvrtek od 18:00 do 19:00 v budově baptistického sboru v Kladně, Osvoboz. pol. vězňů 341. Připojit se může každý.
 
+_Tento text byl zčásti nebo zcela připraven s pomocí umělé inteligence a zatím nebyl zkontrolován._
+
 - Čtvrtek 18:00–19:00
 - Kde: Osvoboz. pol. vězňů 341, 272 01 Kladno
 

@@ -2,6 +2,8 @@
 
 > Chvály při nedělní bohoslužbě v 11:00 v baptistickém sboru v Kladně: skupina chval hraje na klávesy a housle a zpívá o Boží velikosti a lásce.
 
+_Tento text byl zčásti nebo zcela připraven s pomocí umělé inteligence a zatím nebyl zkontrolován._
+
 Kdy: Neděle 11:00
 
 

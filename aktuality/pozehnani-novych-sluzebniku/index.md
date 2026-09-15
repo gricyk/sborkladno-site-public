@@ -2,6 +2,8 @@
 
 > 3. listopadu 2024 sbor v Kladně požehnal ke službě starších sboru Filipa Zadorožného, Iona Kučera a Sergeje Zadorožného.
 
+_Tento text byl zčásti nebo zcela připraven s pomocí umělé inteligence a zatím nebyl zkontrolován._
+
 3. listopadu 2024
 
 

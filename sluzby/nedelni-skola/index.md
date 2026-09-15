@@ -2,6 +2,8 @@
 
 > Nedělní škola baptistického sboru v Kladně: výuka Bible pro děti ve skupinách do 4 let, 4–8 let a od 8 let. Zveme děti z věřících rodin i další.
 
+_Tento text byl zčásti nebo zcela připraven s pomocí umělé inteligence a zatím nebyl zkontrolován._
+
 Kdy: Neděle
 
 

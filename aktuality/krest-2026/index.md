@@ -2,6 +2,8 @@
 
 > Program křtu v neděli 30. srpna 2026: bohoslužba v 11:00 a křest v přírodě u vody v 15:00.
 
+_Tento text byl zčásti nebo zcela připraven s pomocí umělé inteligence a zatím nebyl zkontrolován._
+
 30. srpna 2026
 
 
