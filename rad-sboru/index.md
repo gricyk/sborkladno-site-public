@@ -2,7 +2,7 @@
 
 > Základní řád sboru Bratrské jednoty baptistů v ČR v plném znění: pravidla, kterými se řídí baptistický sbor v Kladně. Platí český originál.
 
-Příloha č. 3: Základní řád sboru BJB
+Základní řád sboru BJB
 
 Platí pouze český originál řádu.
 
