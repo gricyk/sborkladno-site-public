@@ -66,12 +66,12 @@ Každý může být řádným členem jen jednoho baptistického sboru. Přestup
 
 U členů, kteří se proviní proti zásadám Písma Svatého a sborového života, se uplatní biblické formy sborové kázně. Kázeňská opatření sledují duchovní obnovu proviňujícího se člena sboru. Vedle napomenutí přijímané skrze kázané Slovo se zpravidla praktikuje:
 
-- a) napomenutí bratrem nebo sestrou
-- b) napomenutí před dvěma nebo třemi svědky
-- c) napomenutí staršovstvem sboru
-- d) napomenutí sborovým shromážděním
-- e) omezení některých práv člena případně pozastavení členství
-- f) vyloučení ze sboru
+- a) napomenutí bratrem nebo sestrou
+- b) napomenutí před dvěma nebo třemi svědky
+- c) napomenutí staršovstvem sboru
+- d) napomenutí sborovým shromážděním
+- e) omezení některých práv člena případně pozastavení členství
+- f) vyloučení ze sboru
 
 V případě vyloučení (pozastavení členství) pokračuje pastorační odpovědnost sboru. O znovupřijetí vyloučeného rozhoduje sborové shromáždění na základě stanovených podmínek.
 
