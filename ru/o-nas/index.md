@@ -16,7 +16,7 @@
 
 ## Баптистский союз Чехии
 
-Наша церковь входит в Баптистский союз Чехии — Bratrská jednota baptistů v ČR (BJB) — и зарегистрирована в Министерстве культуры ЧР.
+Наша церковь входит в Баптистский союз Чехии — Bratrská jednota baptistů v ČR (BJB) — и [зарегистрирована в Министерстве культуры ЧР](https://www-cns.mkcr.cz/cns_internet/CNS/detail_cpo.aspx?id_subj=13552&str_zpet=Seznam_hledani.aspx).
 
 ## История
 

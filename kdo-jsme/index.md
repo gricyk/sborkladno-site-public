@@ -16,7 +16,7 @@ Přivádět lidi k víře v Ježíše Krista, pomáhat růst každému znovuzroz
 
 ## Bratrská jednota baptistů
 
-Naše církev je součástí Bratrské jednoty baptistů v ČR (BJB) a je registrována na Ministerstvu kultury ČR.
+Naše církev je součástí Bratrské jednoty baptistů v ČR (BJB) a je [registrována na Ministerstvu kultury ČR](https://www-cns.mkcr.cz/cns_internet/CNS/detail_cpo.aspx?id_subj=13552&str_zpet=Seznam_hledani.aspx).
 
 ## Historie
 

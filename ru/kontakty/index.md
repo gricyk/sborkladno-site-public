@@ -7,6 +7,7 @@
 - Где: Osvoboz. pol. vězňů 341, 272 01 Kladno — https://maps.app.goo.gl/TbpDmDUZEJAMpM1j8
 - +420 602 171 613
 - info@sborkladno.cz
+- IČO: 05091675 (https://www-cns.mkcr.cz/cns_internet/CNS/detail_cpo.aspx?id_subj=13552&str_zpet=Seznam_hledani.aspx)
 - YouTube: https://www.youtube.com/@sborkladnobjb
 - Facebook: https://www.facebook.com/bjbkladno
 - Instagram: https://www.instagram.com/baptist.church.kladno/
