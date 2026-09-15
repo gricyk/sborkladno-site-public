@@ -14,7 +14,7 @@ Kontakt pro vše, co se týká osobních údajů: [info@sborkladno.cz](mailto:in
 
 - Web **nepoužívá cookies**, analytické ani reklamní nástroje. Písma, obrázky i náhledy videí jsou uloženy přímo na webu, nic se nenačítá z cizích serverů.
 - Když si v přepínači vyberete jazyk, prohlížeč si volbu zapamatuje (localStorage). Na server se nic neposílá; volbu smažete vymazáním dat webu v prohlížeči.
-- Server při každé návštěvě zapisuje technický záznam: IP adresu, datum a čas, adresu stránky a údaje o prohlížeči. Záznamy slouží k provozu a bezpečnosti webu (oprávněný zájem, čl. 6 odst. 1 písm. f GDPR) a **mažeme je po 90 dnech**. Server z nich sestavuje souhrnnou statistiku návštěvnosti, která není veřejná.
+- Server při každé návštěvě zapisuje technický záznam: IP adresu, datum a čas, adresu stránky a údaje o prohlížeči. Záznamy slouží k provozu a bezpečnosti webu (oprávněný zájem, čl. 6 odst. 1 písm. f GDPR) a **mažeme je po 90 dnech**. Statistiku návštěvnosti z nich nesestavujeme.
 - Web běží na serveru poskytovatele hostingu v Německu (EU).
 
 ## Odkazy na jiné služby

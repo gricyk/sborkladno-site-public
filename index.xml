@@ -26,7 +26,7 @@ Kontakt pro vše, co se týká osobních údajů: &lt;a href="mailto:info@sborkl
 &lt;ul&gt;
 &lt;li&gt;Web &lt;strong&gt;nepoužívá cookies&lt;/strong&gt;, analytické ani reklamní nástroje. Písma, obrázky i náhledy videí jsou uloženy přímo na webu, nic se nenačítá z cizích serverů.&lt;/li&gt;
 &lt;li&gt;Když si v přepínači vyberete jazyk, prohlížeč si volbu zapamatuje (localStorage). Na server se nic neposílá; volbu smažete vymazáním dat webu v prohlížeči.&lt;/li&gt;
-&lt;li&gt;Server při každé návštěvě zapisuje technický záznam: IP adresu, datum a čas, adresu stránky a údaje o prohlížeči. Záznamy slouží k provozu a bezpečnosti webu (oprávněný zájem, čl. 6 odst. 1 písm. f GDPR) a &lt;strong&gt;mažeme je po 90 dnech&lt;/strong&gt;. Server z nich sestavuje souhrnnou statistiku návštěvnosti, která není veřejná.&lt;/li&gt;
+&lt;li&gt;Server při každé návštěvě zapisuje technický záznam: IP adresu, datum a čas, adresu stránky a údaje o prohlížeči. Záznamy slouží k provozu a bezpečnosti webu (oprávněný zájem, čl. 6 odst. 1 písm. f GDPR) a &lt;strong&gt;mažeme je po 90 dnech&lt;/strong&gt;. Statistiku návštěvnosti z nich nesestavujeme.&lt;/li&gt;
 &lt;li&gt;Web běží na serveru poskytovatele hostingu v Německu (EU).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="odkazy-na-jiné-služby"&gt;Odkazy na jiné služby&lt;/h2&gt;
