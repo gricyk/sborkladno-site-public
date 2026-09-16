@@ -21,14 +21,14 @@ YouTube, Facebook, Instagram, Telegram, PayPal, platba kartou (Stripe) a tlačí
 
 ## E-mail a telefon
 
-Když nám napíšete nebo zavoláte, použijeme vaše kontaktní údaje a obsah zprávy jen k odpovědi (oprávněný zájem). Zprávy uchováváme, dokud jsou potřeba. E-mail sboru provozuje Microsoft 365; Microsoft může data zpracovávat i mimo EU, přenos je chráněn rámcem EU–USA pro ochranu osobních údajů (Data Privacy Framework) a standardními smluvními doložkami.
+Když nám napíšete nebo zavoláte, použijeme vaše kontaktní údaje a obsah zprávy jen k odpovědi (oprávněný zájem). Z obsahu zprávy může vyplývat vaše náboženské přesvědčení; takové údaje zpracováváme jen v rámci činnosti sboru a bez vašeho souhlasu je mimo sbor nepředáváme (čl. 9 odst. 2 písm. d GDPR). Zprávy uchováváme, dokud jsou potřeba. E-mail sboru provozuje Microsoft 365; Microsoft může data zpracovávat i mimo EU, přenos je chráněn rámcem EU–USA pro ochranu osobních údajů (Data Privacy Framework) a standardními smluvními doložkami.
 
 ## Dary
 
 - Při převodu na účet sboru vidíme jméno a číslo účtu plátce, částku a zprávu pro příjemce.
 - Při platbě přes PayPal nebo kartou (Stripe) nám služba předá jméno nebo e-mail dárce a částku. Údaje o platební kartě sbor nevidí.
 
-Údaje o darech používáme pro účetnictví a na požádání pro potvrzení o daru. Uchováváme je po dobu, kterou stanoví účetní a daňové předpisy (právní povinnost, čl. 6 odst. 1 písm. c GDPR).
+Údaje o darech používáme pro účetnictví a na požádání pro potvrzení o daru. Uchováváme je po dobu, kterou stanoví účetní a daňové předpisy (právní povinnost, čl. 6 odst. 1 písm. c GDPR). Údaj o daru sboru může prozradit náboženské přesvědčení dárce; mimo sbor ho předáváme jen tam, kde to ukládá zákon (čl. 9 odst. 2 písm. d GDPR).
 
 ## Fotografie a jména
 
@@ -46,7 +46,7 @@ Automatizované rozhodování ani profilování nepoužíváme.
 
 Pokud se domníváte, že s vašimi údaji zacházíme špatně, můžete podat stížnost u [Úřadu pro ochranu osobních údajů](https://uoou.gov.cz/), Pplk. Sochora 727/27, 170 00 Praha 7.
 
-Platné od 15. září 2026.
+Platné od 16. září 2026.
 
 
 ---
