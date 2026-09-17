@@ -14,9 +14,9 @@ Přivádět lidi k víře v Ježíše Krista, pomáhat růst každému znovuzroz
 - Otevřenost a poctivost ve vztazích
 - Komunita – týmová práce – přátelství
 
-## Bratrská jednota baptistů
+## Kam patříme
 
-Naše církev je součástí Bratrské jednoty baptistů v ČR (BJB) a je [registrována na Ministerstvu kultury ČR](https://www-cns.mkcr.cz/cns_internet/CNS/detail_cpo.aspx?id_subj=13552&str_zpet=Seznam_hledani.aspx).
+Naše církev je součástí Bratrské jednoty baptistů v ČR (BJB) a je [registrována na Ministerstvu kultury ČR](https://www-cns.mkcr.cz/cns_internet/CNS/detail_cpo.aspx?id_subj=13552&str_zpet=Seznam_hledani.aspx). Sbor je také členem [sítě rusky mluvících sborů v Evropě NRC-EBF](https://nrc-ebf.eu/) při Evropské baptistické federaci, a to od vzniku této sítě v roce 2011.
 
 ## Historie
 
