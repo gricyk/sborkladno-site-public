@@ -1,8 +1,8 @@
 # Jsme církev šťastných lidí, protože věříme!
 
-> Baptistický sbor v Kladně: náš cíl, hodnoty a historie od roku 2006. Jsme součástí Bratrské jednoty baptistů v ČR.
+> Baptistický sbor v Kladně: vize a poslání, hodnoty a historie od roku 2006. Jsme součástí Bratrské jednoty baptistů v ČR.
 
-## Náš cíl
+## Vize a poslání
 
 Přivádět lidi k víře v Ježíše Krista, pomáhat růst každému znovuzrozenému jako učedníku Krista proměňujícímu se do Jeho obrazu, připravovat je ke službě lidem a Bohu podle Jeho povolání – včetně zakládání nových sborů, které budou zakládat další nové sbory – a tak upevňovat Boží království na zemi.
 

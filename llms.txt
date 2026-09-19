@@ -25,7 +25,7 @@ Avoid these mistakes:
 ## Czech pages (main language)
 
 - [Sbor BJB Kladno](https://sborkladno.cz/index.md): Baptistický sbor v Kladně. Bohoslužby každou neděli v 11:00, Osvoboz. pol. vězňů 341, Kladno.
-- [Kdo jsme](https://sborkladno.cz/kdo-jsme/index.md): Baptistický sbor v Kladně: náš cíl, hodnoty a historie od roku 2006. Jsme součástí Bratrské jednoty baptistů v ČR.
+- [Kdo jsme](https://sborkladno.cz/kdo-jsme/index.md): Baptistický sbor v Kladně: vize a poslání, hodnoty a historie od roku 2006. Jsme součástí Bratrské jednoty baptistů v ČR.
 - [Věříme](https://sborkladno.cz/verime/index.md): Apoštolské vyznání víry, 14 zásad baptistických sborů a I. část Závazku z Kapského Města (Lausannské hnutí, 2010).
 - [Bohoslužby](https://sborkladno.cz/bohosluzby/index.md): Bohoslužba baptistického sboru v Kladně každou neděli v 11:00, Osvoboz. pol. vězňů 341. Probíhá v ruštině, je otevřená všem, záznamy jsou na YouTube.
 - [Služby](https://sborkladno.cz/sluzby/index.md): Pravidelná setkání baptistického sboru v Kladně: nedělní bohoslužba v 11:00, nedělní škola pro děti, chvály a Bible a modlitba ve čtvrtek v 18:00.
@@ -36,7 +36,7 @@ Avoid these mistakes:
 ## Russian pages (/ru/)
 
 - [Церковь ЕХБ Кладно](https://sborkladno.cz/ru/index.md): Евангельская церковь (ЕХБ) в Кладно, Чехия. Богослужения каждое воскресенье в 11:00, Osvoboz. pol. vězňů 341, Kladno.
-- [О нас](https://sborkladno.cz/ru/o-nas/index.md): Евангельская церковь ЕХБ в Кладно: наша цель, ценности и история с 2006 года. Мы входим в Баптистский союз Чехии (BJB).
+- [О нас](https://sborkladno.cz/ru/o-nas/index.md): Евангельская церковь ЕХБ в Кладно: видение и миссия, ценности и история с 2006 года. Мы входим в Баптистский союз Чехии (BJB).
 - [Мы верим](https://sborkladno.cz/ru/my-verim/index.md): Апостольский Символ веры, 14 принципов баптистских церквей и Кейптаунский Символ веры Лозаннского движения.
 - [Богослужения](https://sborkladno.cz/ru/bogosluzheniya/index.md): Богослужение евангельской церкви ЕХБ в Кладно каждое воскресенье в 11:00 на русском языке, Osvoboz. pol. vězňů 341. Открыто для всех, записи на YouTube.
 - [Служения](https://sborkladno.cz/ru/services/index.md): Встречи евангельской церкви в Кладно: воскресное богослужение в 11:00, детское служение, прославление и «Библия и молитва» по четвергам в 18:00.

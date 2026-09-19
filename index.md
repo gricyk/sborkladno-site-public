@@ -2,7 +2,7 @@
 
 > Baptistický sbor v Kladně. Bohoslužby každou neděli v 11:00, Osvoboz. pol. vězňů 341, Kladno.
 
-## Náš cíl
+## Vize a poslání
 
 Přivádět lidi k víře v Ježíše Krista, pomáhat růst každému znovuzrozenému jako učedníku Krista proměňujícímu se do Jeho obrazu, připravovat je ke službě lidem a Bohu podle Jeho povolání – včetně zakládání nových sborů, které budou zakládat další nové sbory – a tak upevňovat Boží království na zemi.
 
